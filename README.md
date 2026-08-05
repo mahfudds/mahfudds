@@ -2,17 +2,6 @@
 
 **Pranata Komputer Ahli Pertama** · Kantor Kementerian Agama Kabupaten Ngawi
 
-<div align="center">
-
-| | |
-|---|---|
-| 📞 | `082234656006` |
-| ✉️ | [mahfudds@gmail.com](mailto:mahfudds@gmail.com) |
-| 🐙 | [github.com/mahfudds](https://github.com/mahfudds) |
-| 📱 | [Google Play Developer](https://play.google.com/store/apps/dev?id=8563039099018441162) |
-
-</div>
-
 ---
 
 ## Tentang Saya
