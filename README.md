@@ -42,6 +42,7 @@ Selain kompetensi teknis, memiliki pengalaman dalam tata kelola organisasi dan p
 | **Website PPID Kanwil Kemenag Jawa Timur** | Website informasi publik di lingkungan Kanwil Kemenag Jatim | [ppidjatim.kemenag.go.id](https://ppidjatim.kemenag.go.id) |
 | **PTSP SANTUN Kemenag Ngawi** | Aplikasi Pelayanan Terpadu Satu Pintu Kantor Kemenag Kabupaten Ngawi | [ptsp.kemenagngawi.id](https://ptsp.kemenagngawi.id) |
 | **Website Kemenag Ngawi** | Website resmi Kantor Kementerian Agama Kabupaten Ngawi | [kemenagngawi.id](https://kemenagngawi.id) |
+| **Ngawi Madrasah Awards** | Platform resmi penilaian kinerja madrasah berbasis bukti digital yang transparan, akuntabel, dan terintegrasi | [madrasah.kemenagngawi.id] (https://madrasah.kemenagngawi.id)|
 | **PTSP Jempol Kemenag Magetan** | Aplikasi Pelayanan Terpadu Satu Pintu Kantor Kemenag Kabupaten Magetan | [ptsp.kemenagmagetan.id](https://ptsp.kemenagmagetan.id) |
 
 ---
